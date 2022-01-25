@@ -1,3 +1,5 @@
+## Invoke-Obfuscation-Bypass
+
 powershell的免杀⽅法有很多，对代码进⾏编码是最常⻅的⼀种，这⾥介绍⼀个专⻔⽤来对powershell进⾏编码免杀的框架Invoke
 
 Obfuscation，这也是著名的**APT32**组织**海莲花**常⽤的⼀个⼯具。
